@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "Please reference the origin of the term notchware if you are to use it in your project to help support the definition."
+# preferred-citation:
+  # type: data
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Notchware cite"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2022-06-28
+url: "https://github.com/seanpm2001/Notchware"
+cff-version: 1.2.0
+message: "Please reference the origin of the term notchware if you are to use it in your project to help support the definition."
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Please reference the origin of the term notchware if you are to use it in your project to help support the definition."
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2021-06-28
+url: "https://github.com/seanpm2001/Notchware"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Myrick family"
+    given-names: "Sean P. Myrick"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Notchware journal title"
+  month: 6
+  start: 1 # First page number
+  end: 10000 # Last page number
+  title: "Please reference the origin of the term notchware if you are to use it in your project to help support the definition."
+  issue: 1
+  volume: 1
+  year: 2022
+# File info
+# File version: 1 (2022, Tuesday, June 28th at 4:55 pm PST)
+# File type: CFF Citation file (*.cff)
+# Line count (including blank lines and compiler line): 44
